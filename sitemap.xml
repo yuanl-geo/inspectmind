@@ -1,24 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+		
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://www.inspectmind.ai/</loc>
-	<lastmod>2025-07-04T22:19:00+01:00</lastmod>
+	<lastmod>2025-07-18T01:22:19+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://www.inspectmind.ai/pricing</loc>
-	<lastmod>2025-07-04T22:19:00+01:00</lastmod>
+	<lastmod>2025-07-18T01:22:19+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.inspectmind.ai/blogs</loc>
+	<lastmod>2025-07-18T01:22:19+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://www.inspectmind.ai/customization</loc>
-	<lastmod>2025-07-04T22:19:00+01:00</lastmod>
+	<lastmod>2025-07-18T01:22:19+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.inspectmind.ai/allowElement</loc>
+	<lastmod>2025-07-18T01:22:19+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.inspectmind.ai/allowedElements</loc>
+	<lastmod>2025-07-18T01:22:19+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.inspectmind.ai/disallowedElements</loc>
+	<lastmod>2025-07-18T01:22:19+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.inspectmind.ai/remarkPlugins</loc>
+	<lastmod>2025-07-18T01:22:19+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.inspectmind.ai/components</loc>
+	<lastmod>2025-07-18T01:22:19+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.inspectmind.ai/children</loc>
+	<lastmod>2025-07-18T01:22:19+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.inspectmind.ai/urlTransform</loc>
+	<lastmod>2025-07-18T01:22:19+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://www.inspectmind.ai/socialleads</loc>
-	<lastmod>2025-07-04T22:19:00+01:00</lastmod>
+	<lastmod>2025-07-18T01:22:19+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 </urlset>
